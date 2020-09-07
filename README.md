@@ -1,1 +1,1 @@
-# DataScienceDemo
+# A quick project for my resume showcasing my abilities as a python programmer, was adapted from a school project. I decided not to change that much since the school project already showcases my comprehensions of the basics well.
